@@ -1,3 +1,3 @@
-"shoron....dbneuhfkrejfokjdkfnfkfdfjkbjd....touhid"
+"....dbneuhfkrejfokjdkfnfkfdfjkbjd.."
 
 hii
