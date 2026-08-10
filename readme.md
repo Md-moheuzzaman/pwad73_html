@@ -1,10 +1,6 @@
 # Aboout me
-- My name is 
-- Project name
+- My name is Moheuzzaman
+- Project name 
 - Project description
 - Technologies used
 - Features
-
-- new added
-- okk
-- Hello
